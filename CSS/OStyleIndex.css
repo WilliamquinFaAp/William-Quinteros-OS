@@ -1,0 +1,25 @@
+body {
+    background-color: darkgrey;
+}
+.TitulodeBienvenida {
+text-align: center ;
+font-size: 35px;
+color: black;
+}
+
+h3{
+color: blue;
+font-size: 50px;
+
+}
+ul{
+    color: gray;
+}
+li {
+    text-align: left;
+
+}
+a{
+    color:rgb(160, 105, 2);
+    text-decoration: none;
+}

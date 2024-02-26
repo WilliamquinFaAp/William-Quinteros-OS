@@ -1,0 +1,21 @@
+Body {
+padding: 12px 36px;
+color: black; 
+}
+.BarraTop {
+    text-decoration: none;
+    border-radius: 20px;    
+    display:inline-block;
+    color: rgb(22, 22, 22);
+    text-align: right;
+    padding: 5px 16px;
+    background-color: #79e76a;
+    overflow: hidden;
+    font-family: 'Times New Roman', Times, serif;
+    border-top-color:black ;
+}
+Encabezadojr {
+    margin-top: 20px 0;
+    text-align: center;
+
+}
