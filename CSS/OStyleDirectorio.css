@@ -9,10 +9,11 @@ color: black;
     color: rgb(22, 22, 22);
     text-align: right;
     padding: 5px 16px;
-    background-color: #79e76a;
     overflow: hidden;
     font-family: 'Times New Roman', Times, serif;
     border-top-color:black ;
+     background-color: #79e76a;
+
 }
 Encabezadojr {
     margin-top: 20px 0;
